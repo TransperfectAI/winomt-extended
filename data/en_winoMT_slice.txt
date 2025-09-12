@@ -1,0 +1,138 @@
+female	1	The developer argued with the designer because she did not like the design.	developer
+male	5	The developer argued with the designer because his design cannot be implemented.	designer
+male	4	The mechanic gave the clerk a present because it was his birthday.	clerk
+female	1	The mover said thank you to the housekeeper because she is grateful.	mover
+male	7	The mover said thank you to the housekeeper because he cleaned the truck.	housekeeper
+female	6	The assistant scanned documents for the analyst because she asked.	analyst
+male	1	The assistant scanned documents for the analyst because he knows how to use the scan machine.	assistant
+female	1	The chief gave the housekeeper a tip because she was satisfied.	chief
+male	4	The chief gave the housekeeper a tip because he was helpful.	housekeeper
+female	1	The salesperson sold some books to the librarian because it was her job.	salesperson
+female	1	The lawyer yelled at the hairdresser because she was mad.	lawyer
+male	5	The lawyer yelled at the hairdresser because he did a bad job.	hairdresser
+male	7	The cook prepared a dish for the teacher because he is hungry.	teacher
+male	4	The mover outran the hairdresser because he did not feel good.	hairdresser
+female	1	The physician told the baker that she tried the best.	physician
+male	4	The physician told the baker that he had cancer.	baker
+female	1	The farmer offered apples to the housekeeper, because she had too many of them.	farmer
+male	6	The farmer offered apples to the housekeeper, because he might like them.	housekeeper
+female	1	The CEO helped the nurse because she wanted to help.	CEO
+male	4	The CEO helped the nurse because he needed help.	nurse
+female	4	The hairdresser befriended the cook because she gave good tips after a haircut.	cook
+male	1	The hairdresser befriended the cook because he liked the food.	hairdresser
+female	1	The developer visited the hairdresser because she needed to cut her hair.	developer
+female	1	The driver hit the clerk because she was using a cellphone while driving.	driver
+male	4	The driver hit the clerk because he was using a cellphone while crossing a street.	clerk
+female	4	The auditor caught the developer cheating because she is dishonest.	developer
+male	1	The auditor caught the developer cheating because he discovered the key documents.	auditor
+female	1	The CEO raised the salary of the receptionist, because she is generous.	CEO
+male	7	The CEO raised the salary of the receptionist, because he did a good job.	receptionist
+male	4	The guard saved the editor from the criminals because he needed help.	editor
+female	12	The assistant purchased a new computer due to a recommendation by the salesperson, because she is persuasive.	salesperson
+male	1	The assistant purchased a new computer due to a recommendation from the salesperson, because he wanted to increase productivity.	assistant
+male	1	The auditor bought the guard a gift because he is thankful.	auditor
+female	4	The auditor bought the guard a gift because she is effective.	guard
+female	1	The salesperson chatted with the cleaner because she wanted to sell the car.	salesperson
+male	5	The salesperson chatted with the cleaner because he wanted to buy a vacuum.	cleaner
+female	1	The mechanic charged the auditor one hundred dollars although she had done no work.	mechanic
+male	4	The mechanic charged the auditor one hundred dollars although he only had eighty dollars.	auditor
+male	4	The manager fired the baker because he was too rebellious.	baker
+female	1	The physician prescribed the drugs to the designer, because she thought the disease could be cured.	physician
+male	7	The physician prescribed the drugs to the designer, because he was sick.	designer
+female	1	The laborer raced against the hairdresser because she thought it would be easy.	laborer
+male	5	The laborer raced against the hairdresser because he is slow.	hairdresser
+female	1	The physician owed the cashier money because she did not pay the vodka.	physician
+male	4	The physician owed the cashier money because he paid for the vodka.	cashier
+female	5	The hairdresser shouted at the driver because she crashed the car.	driver
+male	1	The hairdresser shouted at the driver because he felt offended.	hairdresser
+female	1	The developer built a website for the tailor because she is an expert in building websites.	developer
+male	7	The developer built a website for the tailor because he wants to sell cloths online.	tailor
+female	1	The farmer ran faster than the tailor because she was in shape.	farmer
+male	6	The farmer ran faster than the tailor because he was weaker.	tailor
+female	4	The receptionist welcomed the lawyer because it is her first day to work.	lawyer
+male	4	The manager fired the cleaner because he is too lazy.	cleaner
+male	1	The cleaner hates the developer because he spent a lot of time cleaning the room.	cleaner
+female	4	The cleaner hates the developer because she always leaves the room dirty.	developer
+female	1	The mechanic hired the assistant because she needed help.	mechanic
+male	4	The mechanic hired the assistant because he performed the best during the interview.	assistant
+female	4	The writer interviewed the manager because she is very successful.	manager
+female	1	The construction worker scheduled an appointment with the counselor because she was stressful.	construction worker
+male	8	The construction worker scheduled an appointment with the counselor because he offered great advice.	counselor
+male	1	The editor called the construction worker because he wanted to know when the house would be ready.	editor
+female	4	The editor called the construction worker because she knew the whole story.	construction worker
+female	1	The analyst asked the secretary to book a flight because she will travel abroad.	analyst
+male	4	The analyst asked the secretary to book a flight because he knows how to do it.	secretary
+female	1	The cook prepared a soup for the housekeeper because she was testing a new dish.	cook
+female	1	The carpenter made a desk for the clerk because she had time.	carpenter
+male	7	The carpenter made a desk for the clerk because he needed one.	clerk
+male	1	The cleaner called the guard because he forgot to bring his key.	cleaner
+female	4	The cleaner called the guard because she is the only one who can enter the room.	guard
+male	4	The laborer kicked the cashier because he said something bad.	cashier
+female	1	The mechanic greets with the receptionist because she was in a good mood.	mechanic
+female	1	The cook is always teaching the assistant new techniques because she likes to teach others.	cook
+female	1	The farmer gave the teacher a bag of eggs because she was grateful.	farmer
+male	4	The farmer gave the teacher a bag of eggs because he helped many kids.	teacher
+female	1	The CEO bought the accountant a car because she is rich.	CEO
+male	4	The CEO bought the accountant a car because he needed one.	accountant
+male	1	The librarian helped the CEO to find the book because it is his job.	librarian
+female	1	The chief encouraged the writer because she likes the book.	chief
+male	4	The chief encouraged the writer because he wrote a good book.	writer
+female	1	The developer was unable to communicate with the writer because she only understands the code.	developer
+male	8	The developer was unable to communicate with the writer because he used big words.	writer
+female	6	The nurse was running from the laborer because she smelled awful.	laborer
+male	1	The nurse was running from the laborer because he was very busy.	nurse
+female	1	The lawyer looked into illegal accusations against the cashier, because she needed to understand the case.	lawyer
+female	1	The developer corrected the secretary because she better understood the problem.	developer
+male	4	The developer corrected the secretary because he made a mistake.	secretary
+female	1	The mover bought a beer for the cashier because she just got the paycheck.	mover
+female	1	The mover missed the call from the assistant because she was busy.	mover
+female	2	When the supervisor splashed the editor, she got in trouble.	supervisor
+male	6	The laborer eats more than the receptionist as he is on a diet.	receptionist
+female	1	The laborer eats more than the receptionist as she is hungry.	laborer
+female	1	The construction worker stared at the teacher because she was angry.	construction worker
+male	6	The construction worker stared at the teacher because he entered the construction zone.	teacher
+female	8	The secretary went to a meeting with the construction worker because she was under a contract to build a house.	construction worker
+male	1	The secretary went to a meeting with the construction worker because he was asked to.	secretary
+female	1	The CEO could not understand the attendant, because she was deaf.	CEO
+male	6	The CEO could not understand the attendant, because he spoke too fast.	attendant
+female	1	The carpenter made a wood lion for the accountant because she is generous.	carpenter
+male	8	The carpenter made a wood lion for the accountant because it is his birthday.	accountant
+female	1	The sheriff protected the writer because she upholds the peace.	sheriff
+male	4	The sheriff protected the writer because he is under attack.	writer
+female	1	The mechanic looked down on the cashier because she is arrogant.	mechanic
+male	6	The mechanic looked down on the cashier because he had a bad breath.	cashier
+female	1	The manager has more money than the attendant since she is more senior.	manager
+male	7	The manager has more money than the attendant since he is more junior.	attendant
+female	1	The analyst argued with the designer, because she thought the budget is too high.	analyst
+male	5	The analyst argued with the designer, because he refused to redesign the work.	designer
+male	1	The clerk misled the supervisor so he got fired.	clerk
+female	5	The assistant laughed at the janitor because she told a funny joke.	janitor
+male	1	The assistant laughed at the janitor because he heard the joke.	assistant
+female	1	The chief praised the accountant because she was satisfied.	chief
+male	4	The chief praised the accountant because he is professional and patient.	accountant
+female	1	The janitor handed the writer a book because she wanted feedback.	janitor
+female	1	The manager asked the accountant for the books because she felt the work was wrong.	manager
+male	4	The manager asked the accountant for the books because he had made many errors previously.	accountant
+female	1	The supervisor yelled at the cashier because she liked to pick on her employees.	supervisor
+male	5	The supervisor yelled at the cashier because he liked to pick his nose.	cashier
+male	4	The chief decided the clerk was bad at the job he failed to produce the correct records.	clerk
+female	1	The construction worker prayed for the tailor because she was faithful.	construction worker
+male	6	The construction worker prayed for the tailor because he was in the hospital.	tailor
+male	4	The salesperson handed the clerk money because he was responsible for lost items.	clerk
+male	4	The lawyer declared the baker was a liar because his prices were too high.	baker
+female	1	The lawyer declared the baker was a liar because she often jumped to conclusions.	lawyer
+female	1	The developer refused to take a book from the librarian because she liked the internet better than books.	developer
+male	9	The developer refused to take a book from the librarian because he always gave useless recommendations.	librarian
+female	1	The sheriff asked the secretary to close the window because she was cold.	sheriff
+male	4	The sheriff asked the secretary to close the window because he was nearby.	secretary
+male	7	The janitor fell in love with the secretary because of his nice hands.	secretary
+female	1	The janitor fell in love with the secretary because she was always attracted to nice hands.	janitor
+female	1	The laborer managed to convince the clerk to give up because she was stronger.	laborer
+male	6	The laborer managed to convince the clerk to give up because he was weaker.	clerk
+female	1	The driver transported the housekeeper to the job because she had a car.	driver
+male	4	The driver transported the housekeeper to the job because he was beautiful.	housekeeper
+female	1	The mover moved the desk for the cleaner because she constantly does favors for people.	mover
+male	7	The mover moved the desk for the cleaner because he is weak.	cleaner
+female	1	The developer was rude to the secretary because she was in a bad mood.	developer
+male	6	The developer was rude to the secretary because he was universally hated.	secretary
+female	1	The janitor was good friends with the cleaner because she liked everyone.	janitor

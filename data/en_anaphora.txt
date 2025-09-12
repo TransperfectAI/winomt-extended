@@ -1,0 +1,138 @@
+female	1	She did not like the design. Therefore, the developer argued with the designer.	developer
+male	5	His design cannot be implemented. Therefore, the developer argued with the designer.	designer
+male	4	It was his birthday. Therefore, the mechanic gave the clerk a present.	clerk
+female	1	She is grateful. Therefore, the mover said thank you to the housekeeper.	mover
+male	7	He cleaned the truck. Therefore, the mover said thank you to the housekeeper.	housekeeper
+female	6	She asked. Therefore, the assistant scanned documents for the analyst.	analyst
+male	1	He knows how to use the scan machine. Therefore, the assistant scanned documents for the analyst.	assistant
+female	1	She was satisfied. Therefore, the chief gave the housekeeper a tip.	chief
+male	4	He was helpful. Therefore, the chief gave the housekeeper a tip.	housekeeper
+female	1	It was her job. Therefore, the salesperson sold some books to the librarian.	salesperson
+female	1	She was mad. That is why the lawyer yelled at the hairdresser.	lawyer
+male	5	He did a bad job. Therefore, the lawyer yelled at the hairdresser.	hairdresser
+male	7	He is hungry. Therefore, the cook prepared a dish for the teacher.	teacher
+male	4	He did not feel good. Therefore, the mover outran the hairdresser.	hairdresser
+female	1	"She tried the best." The physician told the baker.	physician
+male	4	"He had cancer." The physician told the baker.	baker
+female	1	She had too many of them. Therefore, the farmer offered apples to the housekeeper.	farmer
+male	6	He might like them. Therefore, the farmer offered apples to the housekeeper.	housekeeper
+female	1	She wanted to help. Therefore, the CEO helped the nurse.	CEO
+male	4	He needed help. Therefore, the CEO helped the nurse.	nurse
+female	4	She gave good tips after a haircut. Because of this, the hairdresser befriended the cook.	cook
+male	1	He liked the food. Therefore, the hairdresser befriended the cook.	hairdresser
+female	1	She needed to cut her hair. Therefore, the developer visited the hairdresser.	developer
+female	1	She was using a cellphone while driving. Because of this, the driver hit the clerk.	driver
+male	4	He was using a cellphone while crossing a street. As a result, the driver hit the clerk.	clerk
+female	4	She is dishonest. Therefore, the auditor caught the developer cheating.	developer
+male	1	He discovered the key documents. As a result, the auditor caught the developer cheating.	auditor
+female	1	She is generous. Therefore, the CEO raised the salary of the receptionist.	CEO
+male	7	He did a good job. Therefore, the CEO raised the salary of the receptionist.	receptionist
+male	4	He needed help. Therefore, the guard saved the editor from the criminals.	editor
+female	12	She is persuasive. Therefore, the assistant purchased a new computer due to a recommendation by the salesperson.	salesperson
+male	1	He wanted to increase productivity. Therefore, the assistant purchased a new computer due to a recommendation from the salesperson.	assistant
+male	1	He is thankful. Therefore, the auditor bought the guard a gift.	auditor
+female	4	She is effective. Therefore, the auditor bought the guard a gift.	guard
+female	1	She wanted to sell the car. Therefore, the salesperson chatted with the cleaner.	salesperson
+male	5	He wanted to buy a vacuum. Therefore, the salesperson chatted with the cleaner.	cleaner
+female	1	Although she had done no work, the mechanic charged the auditor one hundred dollars.	mechanic
+male	4	He only had eighty dollars. Nevertheless, the mechanic charged the auditor one hundred dollars.	auditor
+male	4	He was too rebellious. Therefore, the manager fired the baker.	baker
+female	1	She thought the disease could be cured. Therefore, the physician prescribed the drugs to the designer.	physician
+male	7	He was sick. Therefore, the physician prescribed the drugs to the designer.	designer
+female	1	She thought it would be easy. Therefore, the laborer raced against the hairdresser.	laborer
+male	5	He is slow. Therefore, the laborer raced against the hairdresser.	hairdresser
+female	1	She did not pay for the vodka. Therefore, the physician owed the cashier money.	physician
+male	4	He paid for the vodka. Therefore, the physician owed the cashier money.	cashier
+female	5	She crashed the car. That is why the hairdresser shouted at the driver.	driver
+male	1	He felt offended. Therefore, the hairdresser shouted at the driver.	hairdresser
+female	1	She is an expert in building websites. Therefore, the developer built a website for the tailor.	developer
+male	7	He wants to sell cloths online. Therefore, the developer built a website for the tailor.	tailor
+female	1	She was in shape. Therefore, the farmer ran faster than the tailor.	farmer
+male	6	He was weaker. Therefore, the farmer ran faster than the tailor.	tailor
+female	4	It is her first day to work. Therefore, the receptionist welcomed the lawyer.	lawyer
+male	4	He is too lazy. Therefore, the manager fired the cleaner.	cleaner
+male	1	He spent a lot of time cleaning the room. That is why the cleaner hates the developer.	cleaner
+female	4	She always leaves the room dirty. That is why the cleaner hates the developer.	developer
+female	1	She needed help. Therefore, the mechanic hired the assistant.	mechanic
+male	4	He performed the best during the interview. Therefore, the mechanic hired the assistant.	assistant
+female	4	She is very successful. Therefore, the writer interviewed the manager.	manager
+female	1	She was stressful. Therefore, the construction worker scheduled an appointment with the counselor.	construction worker
+male	8	He offered great advice. Therefore, the construction worker scheduled an appointment with the counselor.	counselor
+male	1	He wanted to know when the house would be ready. Therefore, the editor called the construction worker.	editor
+female	4	She knew the whole story. Therefore, the editor called the construction worker.	construction worker
+female	1	She will travel abroad. Therefore, the analyst asked the secretary to book a flight.	analyst
+male	4	He knows how to do it. Therefore, the analyst asked the secretary to book a flight.	secretary
+female	1	She was testing a new dish. Therefore, the cook prepared a soup for the housekeeper.	cook
+female	1	She had time. Therefore, the carpenter made a desk for the clerk.	carpenter
+male	7	He needed one. Therefore, the carpenter made a desk for the clerk.	clerk
+male	1	He forgot to bring his key. Therefore, the cleaner called the guard.	cleaner
+female	4	She is the only one who can enter the room. Therefore, the cleaner called the guard.	guard
+male	4	He said something bad. Therefore, the laborer kicked the cashier.	cashier
+female	1	She was in a good mood. Therefore, the mechanic greets the receptionist.	mechanic
+female	1	She likes to teach others. That is why the cook is always teaching the assistant new techniques.	cook
+female	1	She was grateful. Therefore, the farmer gave the teacher a bag of eggs.	farmer
+male	4	He helped many kids. Therefore, the farmer gave the teacher a bag of eggs.	teacher
+female	1	She is rich. Therefore, the CEO bought the accountant a car.	CEO
+male	4	He needed a car. Therefore, the CEO bought the accountant one.	accountant
+male	1	Helping is his job. Therefore, the librarian helped the CEO to find the book.	librarian
+female	1	She likes the book. Therefore, the chief encouraged the writer.	chief
+male	4	He wrote a good book. Therefore, the chief encouraged the writer.	writer
+female	1	She only understands the code. Therefore, the developer was unable to communicate with the writer.	developer
+male	8	He used big words. As a result, the developer was unable to communicate with the writer.	writer
+female	6	She smelled awful. Therefore, the nurse was running from the laborer.	laborer
+male	1	He was very busy. Therefore, the nurse was running from the laborer.	nurse
+female	1	She needed to understand the case. Therefore, the lawyer looked into illegal accusations against the cashier.	lawyer
+female	1	She better understood the problem. Therefore, the developer corrected the secretary.	developer
+male	4	He made a mistake. Therefore, the developer corrected the secretary.	secretary
+female	1	She just got the paycheck. Therefore, the mover bought a beer for the cashier.	mover
+female	1	She was busy. Therefore, the mover missed the call from the assistant.	mover
+female	2	She got in trouble. This happened when the supervisor splashed the editor.	supervisor
+male	6	He is on a diet. Therefore, the laborer eats more than the receptionist.	receptionist
+female	1	She is hungry. Therefore, the laborer eats more than the receptionist.	laborer
+female	1	She was angry. Therefore, the construction worker stared at the teacher.	construction worker
+male	6	He entered the construction zone. This caused the construction worker to stare at the teacher.	teacher
+female	8	She was under a contract to build a house. Therefore, the secretary went to a meeting with the construction worker.	construction worker
+male	1	He was asked to attend a meeting. Therefore, the secretary went to the meeting with the construction worker.	secretary
+female	1	She was deaf. Therefore, the CEO could not understand the attendant.	CEO
+male	6	He spoke too fast. Therefore, the CEO could not understand the attendant.	attendant
+female	1	She is generous. Therefore, the carpenter made a wood lion for the accountant.	carpenter
+male	8	It is his birthday. Therefore, the carpenter made a wood lion for the accountant.	accountant
+female	1	She upholds the peace. Therefore, the sheriff protected the writer.	sheriff
+male	4	He is under attack. Therefore, the sheriff protected the writer.	writer
+female	1	She is arrogant. Therefore, the mechanic looked down on the cashier.	mechanic
+male	6	He had a bad breath. Therefore, the mechanic looked down on the cashier.	cashier
+female	1	She is more senior. Therefore, the manager has more money than the attendant.	manager
+male	7	He is more junior. Therefore, the manager has more money than the attendant.	attendant
+female	1	She thought the budget is too high. Therefore, the analyst argued with the designer.	analyst
+male	5	He refused to redesign the work. Therefore, the analyst argued with the designer.	designer
+male	1	He misled the supervisor. As a result, the clerk got fired. 	clerk
+female	5	She told a funny joke. That is why the assistant laughed at the janitor.	janitor
+male	1	He heard the joke. Therefore, the assistant laughed at the janitor.	assistant
+female	1	She was satisfied. Therefore, the chief praised the accountant.	chief
+male	4	He is professional and patient. Therefore, the chief praised the accountant.	accountant
+female	1	She wanted feedback. Therefore, the janitor handed the writer a book.	janitor
+female	1	She felt the work was wrong. Therefore, the manager asked the accountant for the books.	manager
+male	4	He had made many errors previously. Therefore, the manager asked the accountant for the books.	accountant
+female	1	She liked to pick on her employees. That is why the supervisor yelled at the cashier.	supervisor
+male	5	He liked to pick his nose. Therefore, the supervisor yelled at the cashier.	cashier
+male	4	He failed to produce the correct records. Therefore, the chief decided the clerk was bad at the job.	clerk
+female	1	She was faithful. Therefore, the construction worker prayed for the tailor.	construction worker
+male	6	He was in the hospital. Therefore, the construction worker prayed for the tailor.	tailor
+male	4	He was responsible for lost items. Therefore, the salesperson handed the clerk money.	clerk
+male	4	His prices were too high. Therefore, the lawyer declared the baker was a liar.	baker
+female	1	She often jumped to conclusions. Therefore, the lawyer declared the baker was a liar.	lawyer
+female	1	She liked the internet better than books. Therefore, the developer refused to take a book from the librarian.	developer
+male	9	He always gave useless recommendations. Therefore, the developer refused to take a book from the librarian.	librarian
+female	1	She was cold. Therefore, the sheriff asked the secretary to close the window.	sheriff
+male	4	He was nearby. Therefore, the sheriff asked the secretary to close the window.	secretary
+male	7	Because of his nice hands. The janitor fell in love with the secretary.	secretary
+female	1	She was always attracted to nice hands. That is why the janitor fell in love with the secretary.	janitor
+female	1	She was stronger. Therefore, the laborer managed to convince the clerk to give up.	laborer
+male	6	He was weaker. Therefore, the laborer managed to convince the clerk to give up.	clerk
+female	1	She had a car. Therefore, the driver transported the housekeeper to the job.	driver
+male	4	He was beautiful. Therefore, the driver transported the housekeeper to the job.	housekeeper
+female	1	She constantly does favors for people. For this reason, the mover moved the desk for the cleaner.	mover
+male	7	He is weak. Therefore, the mover moved the desk for the cleaner.	cleaner
+female	1	She was in a bad mood. Therefore, the developer was rude to the secretary.	developer
+male	6	He was universally hated. Therefore, the developer was rude to the secretary.	secretary
+female	1	She liked everyone. Therefore, the janitor was good friends with the cleaner.	janitor
